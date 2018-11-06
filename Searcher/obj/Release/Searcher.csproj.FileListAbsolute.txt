@@ -1,0 +1,12 @@
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.MainWindow.resources
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.Properties.Resources.resources
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.TextViewer.resources
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.csproj.GenerateResource.Cache
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.csproj.CoreCompileInputs.cache
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.exe
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.pdb
+C:\projects\misc\Searcher\Searcher\bin\Release\Searcher.exe.config
+C:\projects\misc\Searcher\Searcher\bin\Release\Searcher.exe
+C:\projects\misc\Searcher\Searcher\bin\Release\Searcher.pdb
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.SettingsForm.resources
+C:\projects\misc\Searcher\Searcher\obj\Release\Searcher.Regexr.resources

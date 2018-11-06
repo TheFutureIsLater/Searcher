@@ -1,0 +1,13 @@
+C:\projects\misc\Searcher\Searcher\bin\Debug\Searcher.exe.config
+C:\projects\misc\Searcher\Searcher\bin\Debug\Searcher.exe
+C:\projects\misc\Searcher\Searcher\bin\Debug\Searcher.pdb
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.MainWindow.resources
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.Properties.Resources.resources
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.TextViewer.resources
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.csproj.GenerateResource.Cache
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.csproj.CoreCompileInputs.cache
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.exe
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.pdb
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.SettingsForm.resources
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.Regexr.resources
+C:\projects\misc\Searcher\Searcher\obj\Debug\Searcher.csprojResolveAssemblyReference.cache
